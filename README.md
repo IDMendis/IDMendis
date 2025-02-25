@@ -24,6 +24,11 @@ An Arduino-based Tic-Tac-Toe game box featuring IoT, AI, and interactive design 
 
 🔹 Comprehensive Garage Management System  
 A MERN stack application to streamline garage operations, including user authentication, role-based access, and payment integration.
+
+ 📫 How to reach me?  
+ ✉️Email : dinushimendisxp@gmail.com OR ivonmendisxp@gmail.com  
+🌐LinkedIn : https://www.linkedin.com/in/dinushi-mendis-8099b5281  
+ 💻GitHub : https://github.com/IDMendis  
 <!---
 IDMendis/IDMendis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
