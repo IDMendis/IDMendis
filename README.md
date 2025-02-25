@@ -2,7 +2,7 @@ Hi! I'm Ivon Mendis,
 🎓 Undergraduate | 💻 Tech Enthusiast   
 
 📚 Education  
-Currently pursuing a BSc Hons in IT & Textile and Apparel Engineering at the University of Moratuwa, Sri Lanka’s leading technical university.  
+Currently pursuing a BSc Hons in Information Technology at the University of Moratuwa. 
 
 🛠 Skills & Expertise    
 - Web Development (MERN Stack)
