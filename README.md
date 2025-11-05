@@ -1,7 +1,7 @@
 <!-- 🌙 Dinushi Mendis - Dark Mode GitHub Profile README -->
 
 <h1 align="center">👩‍💻 Hi, I'm <span style="color:#4DB6AC;">Dinushi Mendis</span></h1>
-<h3 align="center">Software Engineer Intern | Full-Stack & Mobile Developer | Blockchain Enthusiast</h3>
+
 
 <p align="center">
   <a href="mailto:dinushimendisxp@gmail.com"><img src="https://img.shields.io/badge/Email-dinushimendisxp%40gmail.com-red?style=flat-square&logo=gmail" /></a>
@@ -13,7 +13,7 @@
 ---
 
 ### 🧠 About Me  
-I’m a **third-year IT undergraduate** at the **University of Moratuwa**, passionate about **software development**, **IoT**, and **blockchain technology**.  
+I’m a **third-year IT undergraduate** at the **University of Moratuwa**, passionate about **software development**.  
 I love designing creative solutions that merge **innovation and real-world impact**.  
 
 💡 *“Building technology that connects ideas with innovation.”*
