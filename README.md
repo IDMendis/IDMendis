@@ -2,7 +2,12 @@
 
 <h1 align="center">👩‍💻 Hi, I'm <span style="color:#4DB6AC;">Dinushi Mendis</span></h1>
 
+<!-- ✨ Typing Animation (Optional but nice visual touch) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DB6AC&center=true&vCenter=true&width=500&lines=Hi!+I'm+Dinushi+Mendis;Software+Developer+%7C+Tech+Enthusiast;UI%2FUX+Lover+%7C+IT+Undergraduate" alt="Typing SVG" />
+</p>
 
+<!-- 🌟 Contact Badges -->
 <p align="center">
   <a href="mailto:dinushimendisxp@gmail.com"><img src="https://img.shields.io/badge/Email-dinushimendisxp%40gmail.com-red?style=flat-square&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/ivonmendis/"><img src="https://img.shields.io/badge/LinkedIn-IvonMendis-blue?style=flat-square&logo=linkedin" /></a>
@@ -10,13 +15,18 @@
   <a href="https://www.credly.com/users/dinushi-mendis"><img src="https://img.shields.io/badge/Credly-Certifications-orange?style=flat-square&logo=credly" /></a>
 </p>
 
+
+
 ---
 
 ### 🧠 About Me  
 I’m a **third-year IT undergraduate** at the **University of Moratuwa**, passionate about **software development**.  
 I love designing creative solutions that merge **innovation and real-world impact**.  
 
-💡 *“Building technology that connects ideas with innovation.”*
+💡 *“Building technology that connects ideas with innovation.”*  
+
+🌱 Currently learning **Python backend development** and **Flutter mobile apps**  
+⚡ Fun fact: I enjoy blending **technology, creativity, and design aesthetics**
 
 ---
 
@@ -47,7 +57,14 @@ I love designing creative solutions that merge **innovation and real-world impac
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
 
+### 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IDMendis&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
 
 ### 📈 GitHub Stats  
 
@@ -73,6 +90,4 @@ I love designing creative solutions that merge **innovation and real-world impac
 
 ---
 
-
-
-<p align="center">⭐ “Code with creativity, innovate with purpose.” ⭐</p>
+<p align="center">🌟 <i>"Turning ideas into code, and code into impact."</i> 🌟</p>
