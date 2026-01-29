@@ -52,7 +52,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IDMendis&theme=algolia&row=1&column=6" />
+  <img src="https://github-readme-stats-five-pi-77.vercel.app/api?username=IDMendis&theme=algolia&row=1&column=6" />
 </p>
 
 ---
@@ -60,12 +60,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IDMendis&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-five-pi-77.vercel.app/api?username=IDMendis&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=IDMendis&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IDMendis&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-five-pi-77.vercel.app/api/top-langs/?username=IDMendis&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,10 +78,6 @@
 - 🎨 Advanced UI/UX systems  
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
 
 <p align="center">
   🌟 <i>Turning ideas into code, and code into impact.</i> 🌟
