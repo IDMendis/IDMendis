@@ -1,93 +1,88 @@
-<!-- 🌙 Dinushi Mendis - Dark Mode GitHub Profile README -->
+<!-- 🌌 Dinushi Mendis | GitHub Profile README -->
 
-<h1 align="center">👩‍💻 Hi, I'm <span style="color:#4DB6AC;">Dinushi Mendis</span></h1>
-
-<!-- ✨ Typing Animation (Optional but nice visual touch) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DB6AC&center=true&vCenter=true&width=500&lines=Hi!+I'm+Dinushi+Mendis;Software+Developer+%7C+Tech+Enthusiast;UI%2FUX+Lover+%7C+IT+Undergraduate" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dinushi%20Mendis&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- 🌟 Contact Badges -->
+<h3 align="center">Full-Stack Developer • UI/UX Dreamer • IT Undergraduate</h3>
+
 <p align="center">
-  <a href="mailto:dinushimendisxp@gmail.com"><img src="https://img.shields.io/badge/Email-dinushimendisxp%40gmail.com-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/ivonmendis/"><img src="https://img.shields.io/badge/LinkedIn-IvonMendis-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/IDMendis"><img src="https://img.shields.io/badge/GitHub-IDMendis-black?style=flat-square&logo=github" /></a>
-  <a href="https://www.credly.com/users/dinushi-mendis"><img src="https://img.shields.io/badge/Credly-Certifications-orange?style=flat-square&logo=credly" /></a>
-</p>
-
-
-
----
-
-### 🧠 About Me  
-I’m a **third-year IT undergraduate** at the **University of Moratuwa**, passionate about **software development**.  
-I love designing creative solutions that merge **innovation and real-world impact**.  
-
-💡 *“Building technology that connects ideas with innovation.”*  
-
-🌱 Currently learning **Python backend development** and **Flutter mobile apps**  
-⚡ Fun fact: I enjoy blending **technology, creativity, and design aesthetics**
-
----
-
-### 🚀 Tech Stack  
-
-#### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-#### 🌐 Web & Mobile
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-#### 🗄️ Databases & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Meaningful+Digital+Experiences;MERN+Stack+Developer;Flutter+%7C+Python+Backend+Learner;Turning+Ideas+into+Impact" />
 </p>
 
 ---
 
-### 🏅 GitHub Trophies
+## 👩‍💻 About Me
+
+🌸 Hi! I’m **Dinushi Mendis**, a **third-year IT undergraduate** at the **University of Moratuwa**  
+💡 Passionate about **full-stack development**, **UI/UX design**, and **problem-solving**  
+🎨 I love building **clean, user-centric applications** with real-world impact  
+
+> *“Code is not just logic — it’s an experience.”*
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IDMendis&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+  <a href="mailto:dinushimendisxp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dinushimendisxp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ivonmendis/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dinushi_Mendis-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/IDMendis">
+    <img src="https://img.shields.io/badge/GitHub-IDMendis-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.credly.com/users/dinushi-mendis">
+    <img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly"/>
+  </a>
 </p>
 
 ---
 
-### 📈 GitHub Stats  
+## 🛠 Tech Stack
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IDMendis&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IDMendis&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDMendis&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,ts,python,dart,react,nodejs,express,flutter,mongodb,mysql,firebase,git,github,figma" />
 </p>
 
 ---
 
-### ✨ Let’s Connect!  
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="mailto:dinushimendisxp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/ivonmendis/"><img src="https://img.shields.io/badge/LinkedIn-Ivon_Mendis-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/IDMendis"><img src="https://img.shields.io/badge/GitHub-IDMendis-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.credly.com/users/dinushi-mendis"><img src="https://img.shields.io/badge/Credly-View_Badges-orange?style=for-the-badge&logo=credly" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=IDMendis&theme=algolia&row=1&column=6" />
 </p>
 
 ---
 
-<p align="center">🌟 <i>"Turning ideas into code, and code into impact."</i> 🌟</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IDMendis&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=IDMendis&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IDMendis&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ✨ Currently Exploring
+
+- 🔐 Secure authentication systems  
+- 📱 Flutter mobile apps  
+- 🧠 AI-powered problem solving  
+- 🎨 Advanced UI/UX systems  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  🌟 <i>Turning ideas into code, and code into impact.</i> 🌟
+</p>
